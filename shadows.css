@@ -1,0 +1,6 @@
+h1{
+    text-shadow: 0px, 0px, 5px darkblue;
+}   
+h1:hover{
+    box-shadow: 0px 0px 0px black;
+}

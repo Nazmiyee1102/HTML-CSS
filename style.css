@@ -1,0 +1,44 @@
+body
+{
+    background-color: black;
+}
+h1
+{
+    color: white;
+}
+p
+{
+    background-color: gray;
+    color: white;
+}
+.odd
+{
+    color: red;
+}
+.even{
+    color: blue;
+}
+#p1
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+#p2
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}
+#p3
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+#p4
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+}

@@ -1,0 +1,52 @@
+body{
+   background-color: grey; 
+}
+h1{
+    color: white;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    border-left-style: dotted;
+    border-right-style: dotted;
+}
+p{
+    background-color: gray;
+    color: white;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+    border-color: green;
+    padding: 5px;
+    margin: 5px;
+}
+#p1{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    background-color: wheat;
+}
+#p2{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    background-color: wheat;
+}
+#p3{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    background-color: wheat;
+}
+#p4{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    background-color: wheat;
+}
+.odd{
+    color: red;
+    text-decoration: red underline;/** yazılanın altını çizer. wavy underline --> dalgalı, dotted underline --> noktalı çizer. Çizgiye renk verilebilir. **/
+    font-style: italic;
+}
+.even{
+    color: blue;
+}

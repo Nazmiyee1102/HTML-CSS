@@ -1,0 +1,23 @@
+p::first-letter{/*ilk harfi diğerlerinden büyükçe yazar.*/
+    font-size: 40px;
+    font-style: italic;
+}
+p::first-line{/*ilk satırda işlem yapar.*/
+    color: skyblue;
+}
+li::before{
+     content: "✔";
+}
+#list1 li::first-letter{
+    color: red;
+}
+#CSS::after{
+content: "👈";
+}
+li::marker{
+    color: silver;
+ }
+ p::selection{
+    color:white;
+    background: black;
+ }

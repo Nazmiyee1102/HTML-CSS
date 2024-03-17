@@ -1,0 +1,40 @@
+a:link{
+    color: cyan;
+}
+a:visited{
+    color: grey;
+}
+a:hover{
+    color: tomato;
+}
+a:active
+{
+    color: yellow;
+}
+button{
+    border: solid;
+    border-radius: 5px;
+    size: 10px;
+    color: black;
+    background-color: gray;
+    font-size: 20px;
+}
+button:hover
+{
+    color: blueviolet;
+}
+button:active{
+   background-color: white;
+}
+ul{
+    font-size: 22px;
+}
+li:nth-child(odd){
+    background-color: skyblue;
+}
+li:nth-child(even){
+    background-color: powderblue;
+}
+li:nth-child(3n){/*n önündeki sayının katını ifade eder.*/
+    background-color: yellow;
+}
